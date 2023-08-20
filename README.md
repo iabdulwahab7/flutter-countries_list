@@ -1,6 +1,11 @@
 # countries_list_api
 
-A new Flutter project.
+#CONCEPTS
+1. Get APIS with Model and show data into the List
+2. No array name, so I created a list and stored values
+3. On-tap event to show the country on another screen
+![Countries API no array name](https://github.com/iabdulwahab7/flutter-countries_list/assets/76598467/04cfc55d-681a-4cae-b2bd-3c8c9d771600)
+
 
 ## Getting Started
 
