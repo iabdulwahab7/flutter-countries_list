@@ -6,6 +6,8 @@
 3. On-tap event to show the country on another screen
 ![Countries API no array name](https://github.com/iabdulwahab7/flutter-countries_list/assets/76598467/04cfc55d-681a-4cae-b2bd-3c8c9d771600)
 
+API link: https://gist.githubusercontent.com/pratikbutani/20ded7151103bb30737e2ab1b336eb02/raw/be1391e25487ded4179b5f1c8eedb81b01226216/country-flag.json
+
 
 ## Getting Started
 
